@@ -5,12 +5,52 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://example.com/post/language/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/language/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;языки-разметки&#34;&gt;Языки разметки&lt;/h2&gt;
+&lt;p&gt;Язык разметки — это набор кодов, который при применении к обычному тексту позволяет добавить одно или несколько из следующих свойств (среди прочих): определить текст, структурировать текст, описать макет текста, украсить текст.
+Один язык разметки, с которым вы сталкиваетесь каждый день — это язык разметки гипертекста, или HTML. Веб-сайты и приложения, которые приносят вам новости и показывают вашу электронную почту, построены, по крайней мере частично, с разметкой HTML использует теги в качестве механизма для разметки необработанного текстового содержимого.&lt;/p&gt;
+&lt;h2 id=&#34;типы&#34;&gt;Типы&lt;/h2&gt;
+&lt;p&gt;Легкие языки разметки можно разделить на категории в соответствии с типом используемой разметки. Как и HTML, в некоторых языках используются открывающие и закрывающие теги с одинаковыми названиями (например: &lt;b&gt; полужирный &lt;/b&gt; в HTML или [b] полужирный [/ b] в BBcode ), а в других - знаки препинания и другие специальные Символы ASCII как теги. Третьи используют оба способа (например: Textile ) или позволяют встраивать HTML (например: Markdown ), иногда путем добавления элементов (например: &lt;ref&gt; source &lt;/ref&gt; в MediaWiki ).&lt;/p&gt;
+&lt;p&gt;В большинстве языков есть теги для строк или блоков, а в некоторых - для небольших частей текста (несколько слов), но некоторые предлагают теги только для больших блоков текста.&lt;/p&gt;
+&lt;p&gt;Некоторые языки предназначены для конкретного использования, например, для документации программного кода (например, POD, RD), или могут быть преобразованы только в один формат (обычно HTML). У других более широкий диапазон возможностей.&lt;/p&gt;
+&lt;p&gt;Для создания документов используются следующие языки: AsciiDoc , atx , BBCode , Creole, Epytext, Gemtext, Haml , JsonML, MakeDoc, Markdown , Org-mode , POD , RD, ReStructuredText , Setext , SISU, SPIP , Texy!, Текстиль , Txt2tags , UDO, Wikitexte и Xupl.&lt;/p&gt;
+&lt;p&gt;Скорее они используются для представления данных: Curl , JSON , OGDL и YAML .&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост о прошедшей неделе.</title>
+      <link>https://example.com/post/post-2/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-2/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Выполнить лабораторную работу №9 по операционным системам, сдать третий этап индивидуального проекта.&lt;/li&gt;
+&lt;li&gt;Написать контрольную работу по математической логике.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
+&lt;p&gt;В среду вечером я готовилась к контрольной работе по математической логике, решала домашний вариант. В четверг первой парой была математическая логика, где мы писали контрольную работу. В субботу я выполняла лабораторную работу номер 9 и третий этап индивидуального проекта.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;В результате выполнения лабораторной работы №9 я научилась работать с текстовым редактором Emacs, а контрольная работа закрепила знание по мат. логике.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост о прошедшей неделе.</title>
