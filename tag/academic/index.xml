@@ -5,12 +5,47 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Пост о прошедшей неделе.</title>
+      <link>https://example.com/post/post-3/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-3/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;цели-прошедшей-недели&#34;&gt;Цели прошедшей недели&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Выполнить лабораторную работу №12 по операционным системам, сдать четвертый этап индивидуального проекта.&lt;/li&gt;
+&lt;li&gt;Написать контрольную работу по математическому анализу.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;процесс-выполнения&#34;&gt;Процесс выполнения&lt;/h2&gt;
+&lt;p&gt;В среду вечером я готовилась к контрольной работе по математическому анализу, решала домашний вариант. В четверг третьей парой был математический анализ, где мы писали контрольную работу. В субботу я выполняла лабораторную работу номер 12 и четвертый этап индивидуального проекта.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;В результате выполнения лабораторной работы №12 я научилась писать программный код, а контрольная работа закрепила знание по математическому анализу.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с библиографией</title>
+      <link>https://example.com/post/rabota-bibliografy/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/rabota-bibliografy/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;библиографический-список&#34;&gt;Библиографический список&lt;/h2&gt;
+&lt;p&gt;Библиографический список – является обязательной составляющей любой научной работы (опубликованной или неопубликованной): монографии, диссертации, статьи, курсового или дипломного проектов. Библиографический список показывают источниковедческую базу научного исследования, отражает самостоятельную творческую работу, проделанную автором по сбору и анализу материала, позволяет документально подтвердить и обосновать достоверность и точность приводимых в тексте работы положений, фактов, статистических данных, цитат и других сведений, заимствованных из различных источников. Грамотно составленный список является показателем научной этики и культуры научного труда. Поэтому вопросам составления и оформления библиографического списка в научной работе следует уделять самое серьезное внимание.&lt;/p&gt;
+&lt;h2 id=&#34;содержание-библиографиечского-списка&#34;&gt;Содержание библиографиечского списка&lt;/h2&gt;
+&lt;p&gt;Содержание библиографического списка определяет автор работы, исходя из цели и задач её выполнения. Библиографический список включает библиографические записи цитируемых, упоминаемых и изученных автором документов. Особое внимание уделяется отражению документов последних 3 – 5 лет как показателю осведомлённости автора о современном состоянии изучения рассматриваемой им темы. В библиографический список включаются библиографические записи на все документы, независимо от их носителя (печатные материалы: книги, статьи из журналов, сборников, главы из книг; электронные документы, в том числе ресурсы интернет; аудиовизуальные, архивные документы и др.).&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
